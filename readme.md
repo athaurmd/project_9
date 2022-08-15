@@ -3,6 +3,8 @@ The goal of this project is to design a nice web page for a company.
 
 ## What I learnt in this project?
 
+![html&css](https://www.sololearn.com/Uploads/html-css.jpg)
+
 Finally I can say that i can design a web-page for any company.
 
 ## Time Spent
