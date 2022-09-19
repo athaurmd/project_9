@@ -11,7 +11,7 @@ Finally I can say that i can design a web-page for any company.
    5 Hours
 
  ## Live link of the project
- [Netlify-link](https://my-start-up-design-homepage.netlify.app/)  
+ [Netlify-link](https://developer-landing-websie.netlify.app/)
 
  ### Feedback
 
